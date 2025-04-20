@@ -11,6 +11,12 @@ Built using **Next.js**, **React**, **Tailwind CSS**, and AI-powered translation
 
 ---
 
+## Demo
+
+[Check out the live demo here](https://autotranscript-two.vercel.app/)
+
+---
+
 ## ✨ Key Features
 
 ![Functionalities](./public/functionalities.png)
@@ -20,6 +26,9 @@ Built using **Next.js**, **React**, **Tailwind CSS**, and AI-powered translation
 
 - **100+ Languages**  
   Translate subtitles into over 100 supported languages with high-quality AI translations.
+
+- **AI-Driven Subtitle Translation**
+  Automatically translate subtitles into different languages with context to enhance accuracy.
 
 - **Perfect Timing**  
   Preserves original subtitle timings for smooth playback and synchronization.
