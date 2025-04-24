@@ -15,11 +15,10 @@ Built using **Next.js**, **React**, **Tailwind CSS**, and AI-powered translation
 
 [Check out the live demo here](https://autotranscript-two.vercel.app/)
 
+
 ---
 
 ## ✨ Key Features
-
-![Functionalities](./public/functionalities.png)
 
 - **Easy to Use**  
   Straightforward interface for uploading subtitles and choosing your target language.
@@ -37,7 +36,7 @@ Built using **Next.js**, **React**, **Tailwind CSS**, and AI-powered translation
 
 ## 🛠️ How It Works
 
-![Form UI](./public/form.png)
+![Form UI](./public/main-form.png)
 
 ### 1. Get SRT from YouTube
 Enter any YouTube video URL, and the app will fetch its available subtitles.
