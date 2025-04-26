@@ -13,7 +13,7 @@ Built using **Next.js**, **React**, **Tailwind CSS**, and AI-powered translation
 
 ## Demo
 
-[Check out the live demo here](https://autotranscript-two.vercel.app/)
+[Check out the live demo here](https://autotranscript-kappa.vercel.app/)
 
 
 ---
